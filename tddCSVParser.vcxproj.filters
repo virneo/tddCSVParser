@@ -21,9 +21,12 @@
     <ClCompile Include="tddCSVParser.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MeanDude.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="CSVParser.h">
+    <ClInclude Include="MeanDude.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
